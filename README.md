@@ -119,7 +119,7 @@ sudo chmod +x uaVisualizer.sh graphMe.sh
 
 For a debug mode that outputs a nice JSON, add debug
 
-`./uaVisualizer.sh <your ua> debug`
+`./uaVisualizer.sh <your ua> true`
 
 ```json
 [
