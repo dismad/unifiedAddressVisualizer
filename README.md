@@ -18,7 +18,7 @@ UA digits -> Alphabetic -> 26 primes in order
 
 Let **D** = `{abcdefghijklmnopqrstuvwxyz0123456789} `
 
-****note: order matters dispite this notation.****
+****note: order matters despite this notation.****
 
 `U: D -> P`
 
